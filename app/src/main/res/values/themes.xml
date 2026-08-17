@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.SLPoliceReporting" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#0B2239</item>
+        <item name="android:navigationBarColor">#0B2239</item>
+        <item name="android:windowBackground">#F5F3EE</item>
+    </style>
+</resources>

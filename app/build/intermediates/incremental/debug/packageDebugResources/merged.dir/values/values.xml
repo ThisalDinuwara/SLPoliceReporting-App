@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#0B2239</color>
+    <string name="app_name">SL Police Report</string>
+    <style name="Theme.SLPoliceReporting" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#0B2239</item>
+        <item name="android:navigationBarColor">#0B2239</item>
+        <item name="android:windowBackground">#F5F3EE</item>
+    </style>
+</resources>

@@ -1,0 +1,2 @@
+-keep class com.slpolice.reporting.data.local.** { *; }
+-dontwarn kotlinx.coroutines.**
